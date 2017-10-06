@@ -1,6 +1,4 @@
-# Webpack is Awesome
-I think Webpack is an awesome tool, but not enough people know it. I want to change that.
-
+# Webpack
 
 ## What is Webpack
 
